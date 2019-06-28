@@ -1,2 +1,2 @@
-# Book-Recommendation-System
-CMPE-256 Group Project
+# CMPE256 Large Scale Analytics
+All the assignmnets
